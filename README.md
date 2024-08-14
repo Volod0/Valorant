@@ -34,7 +34,7 @@ Crosshair
 
 Screenshots:
 
-Translated with DeepL.com (free version)
+
 
 
 ![изображение](https://github.com/user-attachments/assets/206d4863-03f8-4e7f-9974-6ff5b31e621a)
